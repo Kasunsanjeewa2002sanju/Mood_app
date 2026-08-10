@@ -1,0 +1,16 @@
+{
+  "name": "The Mood Bridge",
+  "short_name": "MoodBridge",
+  "description": "Share moods and send digital hugs",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#fdf2f8",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
